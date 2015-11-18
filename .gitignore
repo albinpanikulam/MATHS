@@ -1,0 +1,5 @@
+#quitar class
+*.class
+
+#quitar documentacion
+/doc/
